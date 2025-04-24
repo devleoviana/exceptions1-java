@@ -1,1 +1,1 @@
-Handling exceptions in Java.
+Tratando exceções em Java.
